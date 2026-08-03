@@ -50,7 +50,7 @@ This project transforms pizza sales data into meaningful business insights throu
 
 ## 📷 Dashboard Preview
 
-![Image](image url)
+![Image](https://github.com/Prathignya-M/Sales-Performance-Dashboard/blob/174d3762b85209225fcf4fdf392f926fb5d70681/Dashboard-Overview.png)
 
 ## 📌 Key Insight
 
