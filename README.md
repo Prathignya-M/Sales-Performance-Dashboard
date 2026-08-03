@@ -50,9 +50,7 @@ This project transforms pizza sales data into meaningful business insights throu
 
 ## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="Images/dashboard-overview.png" alt="Pizza Sales Dashboard" width="1000">
-</p>
+![Image](image url)
 
 ## 📌 Key Insight
 
