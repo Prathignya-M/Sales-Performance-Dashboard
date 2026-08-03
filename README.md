@@ -73,6 +73,13 @@ This project transforms pizza sales data into meaningful business insights throu
 - Bundle lower-selling pizzas with best-selling items to increase product visibility and sales.
 - Continue monitoring sales by category and pizza size to optimize inventory planning and reduce waste.
 
+## 📂 Files Included
+
+- 📊 Power BI Dashboard File
+- 📁 Sales Dataset
+- 🖼 Dashboard Screenshot
+- 📝 SQL Query Documentation
+
 ## 👤 Author
 
 **Prathignya Mittapally**
