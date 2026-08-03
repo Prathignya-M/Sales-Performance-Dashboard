@@ -79,7 +79,11 @@ This project transforms pizza sales data into meaningful business insights throu
 - 🖼 Dashboard Screenshot
 - 📝 SQL Query Documentation
 
-## 👤 Author
+## 👩‍💻 Author
 
 **Prathignya Mittapally**
+
+**Data Analyst | Power BI Developer**
+
+**Skills:** Power BI • SQL • Microsoft Excel • Power Query • DAX • Data Modeling
 
