@@ -37,21 +37,20 @@ This project transforms pizza sales data into meaningful business insights throu
 
 ## 🛠 Tools & Skills Used
 
-- Microsoft Excel
-- MySQL
-- Power BI Desktop
-- Power Query
-- DAX
-- Data Cleaning
-- Data Transformation
-- Dashboard Design
-- Data Visualization
+- **Microsoft Excel**
+- **MySQL**
+- **Power BI Desktop**
+- **Power Query**
+- **DAX**
+- **Data Cleaning & Transformation**
+- **Dashboard Design**
+- **Data Visualization**
 
 ## 📷 Dashboard Preview
 
 ![Image](https://github.com/Prathignya-M/Sales-Performance-Dashboard/blob/174d3762b85209225fcf4fdf392f926fb5d70681/Dashboard-Overview.png)
 
-## 📌 Key Insight
+## 📌 Key Insights
 
 - Generated **$817.61K** in total revenue from **21,334 customer orders**.
 - Sold **49,558 pizzas**, with customers purchasing an average of **2.32 pizzas per order**.
