@@ -35,7 +35,7 @@ This project transforms pizza sales data into meaningful business insights throu
 | Total Pizzas Sold | 49,558 |
 | Average Pizzas per Order | 2.32 |
 
-## 🛠 Tools Used
+## 🛠 Tools & Skills Used
 
 - Microsoft Excel
 - MySQL
