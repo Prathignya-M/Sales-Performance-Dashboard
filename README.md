@@ -43,7 +43,6 @@ This project transforms pizza sales data into meaningful business insights throu
 - Power Query
 - DAX
 - Data Cleaning
-- Data Modeling
 - Data Transformation
 - Dashboard Design
 - Data Visualization
