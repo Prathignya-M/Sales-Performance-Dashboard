@@ -79,7 +79,9 @@ This project transforms pizza sales data into meaningful business insights throu
 - 🖼 Dashboard Screenshot
 - 📝 SQL Query Documentation
 
-## 👩‍💻 Author
+## 📌 Disclaimer
+
+This project was developed for learning and portfolio purposes using a publicly available dataset. It is intended to demonstrate data analysis, visualization, and business intelligence skills with Power BI.
 
 ## 👩‍💻 Author
 
